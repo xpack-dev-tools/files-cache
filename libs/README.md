@@ -1,6 +1,6 @@
 ## Libraries
 
-These are various libraries used in build scripts.
+These are various libraries and tools used in build scripts.
 
 ### openocd
 
@@ -22,3 +22,4 @@ These are various libraries used in build scripts.
 - `gmp-6.1.2.tar.xz`
 - `mpfr-3.1.6.tar.xz`
 - `isl-0.18.tar.xz`
+- `mingw-w64-v5.0.3.tar.bz2`
