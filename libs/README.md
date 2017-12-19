@@ -2,6 +2,9 @@
 
 These are various libraries and tools used in build scripts.
 
+URLs look like: 
+- https://github.com/gnu-mcu-eclipse/files/raw/master/libs/curl-7.56.1.tar.xz
+
 ### openocd
 
 - `hidapi-0.8.0-rc1.zip`
