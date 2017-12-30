@@ -27,4 +27,4 @@ URLs look like:
 - `isl-0.18.tar.xz`
 - `mingw-w64-v5.0.3.tar.bz2`
 - `nsis-3.02.1-src.tar.bz2`
-- `Zlib-1.2.7-win32-x86.zip`
+- `nsis-3.02.1.zip`
