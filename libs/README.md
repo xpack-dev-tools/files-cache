@@ -26,3 +26,4 @@ URLs look like:
 - `mpfr-3.1.6.tar.xz`
 - `isl-0.18.tar.xz`
 - `mingw-w64-v5.0.3.tar.bz2`
+- `nsis-3.02.1-src.tar.bz2`
