@@ -26,5 +26,8 @@ URLs look like:
 - `mpfr-3.1.6.tar.xz`
 - `isl-0.18.tar.xz`
 - `mingw-w64-v5.0.3.tar.bz2`
+- `mingw-w64-v5.0.4.tar.bz2`
 - `nsis-3.02.1-src.tar.bz2`
 - `nsis-3.02.1.zip`
+
+Note: libelf-0.8.13.tar.gz required compressing, it was a plain tar.
