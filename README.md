@@ -1,9 +1,11 @@
-# files
+# Files Cache
 
-[GitHub](https://github.com/gnu-mcu-eclipse/files)
+[GitHub](https://github.com/xpack-dev-tools/files-cache)
 
-Miscellaneous downloadable files, cached here because the original locations may not be very reliable.
+Miscellaneous downloadable files used during XBB builds, cached here 
+because the original locations may not be very reliable.
 
 URLs look like:
 
-https://github.com/gnu-mcu-eclipse/files/raw/master/libs/curl-7.56.1.tar.xz
+https://github.com/xpack-dev-tools/files-cache/raw/master/libs/curl-7.56.1.tar.xz
+
